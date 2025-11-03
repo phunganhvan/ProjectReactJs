@@ -1,0 +1,1112 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Nguyen Thi B",
+      "username": "nguyenthia",
+      "email": "nguyenthia@gmail.com",
+      "password": "nguyenthia",
+      "token": "bkP9VQydMBRmw67obqD7",
+      "role": "student",
+      "image_url": "https://cdn-i.vtcnews.vn/files/ctv.giaoduc/2019/02/19/nu-sinh-1-1104456.jpg"
+    },
+    {
+      "id": "2",
+      "fullName": "Do Thi B",
+      "username": "dothib",
+      "email": "dothib@gmail.com",
+      "password": "dothib",
+      "token": "KsZitkpwbbPF3fdjbQWh",
+      "role": "student",
+      "image_url": "https://img.lovepik.com/photo/50112/2990.jpg_wh860.jpg"
+    },
+    {
+      "id": "3",
+      "fullName": "Ngo Van C",
+      "username": "ngovanc",
+      "email": "ngovanc@gmail.com",
+      "password": "ngovanc",
+      "token": "abVy7NJdWNgQcCD9Lo",
+      "role": "student",
+      "image_url": "https://media.vneconomy.vn/w800/images/upload/2022/10/06/giaov.jpg"
+    },
+    {
+      "id": "4",
+      "fullName": "Tran Van D",
+      "username": "tranvand",
+      "email": "tranvand@gmail.com",
+      "password": "tranvand",
+      "token": "nZpT5JDkPW9LsGhX8jRm",
+      "role": "student",
+      "image_url": "https://tiki.vn/blog/wp-content/uploads/2023/02/gUpGdBsA03gd2XzB4G6Tz86G3AL8OC_MuR51aRx_ox0Bs76NepjImlOypAVQ01VcLMC_A4yja5UaQvrZ54XbhH2uECBFt9Jw2ty8NRDjAv7oMwFPEVQDpoiHcviue5i4fy8r-HrpT9W4sey7yDJN-4E.png"
+    },
+    {
+      "id": "5",
+      "fullName": "Le Thi E",
+      "username": "lethie",
+      "email": "lethie@gmail.com",
+      "password": "lethie",
+      "token": "WmQo3LsDZ9BrnpTtJ7Yu",
+      "role": "student",
+      "image_url": "https://i.pinimg.com/originals/29/23/fc/2923fcffe2c95966944ce22d83ca865b.jpg"
+    },
+    {
+      "id": "6",
+      "fullName": "Le Hai Ha",
+      "username": "lehaiha",
+      "email": "lehaiha@gmail.com",
+      "password": "lehaiha",
+      "token": "KxPd8VcFNjRm42ZpTYq0",
+      "role": "teacher",
+      "image_url": null
+    },
+    {
+      "id": "7",
+      "fullName": "Bui Thi G",
+      "username": "buithig",
+      "email": "buithig@gmail.com",
+      "password": "buithig",
+      "token": "YvNpLd2MzXp90WqBtF7u",
+      "role": "teacher",
+      "image_url": "https://studiochupanhdep.com/Upload/Images/anh-chan-dung-nam.jpeg"
+    },
+    {
+      "id": "8",
+      "fullName": "Hoang Van H",
+      "username": "hoangvanh",
+      "email": "hoangvanh@gmail.com",
+      "password": "hoangvanh",
+      "token": "RtWq0KlMnZs8JdXy94pA",
+      "role": "teacher",
+      "image_url": "https://photographer.vn/wp-content/uploads/2020/06/hocsinh07.jpg"
+    },
+    {
+      "id": "9",
+      "fullName": "Dang Thi I",
+      "username": "dangthii",
+      "email": "dangthii@gmail.com",
+      "password": "dangthii",
+      "token": "LmXtP9KrVsQdBzY1jGnE",
+      "role": "student",
+      "image_url": "https://nhahangsoho.vn/wp-content/uploads/2025/01/anh-trai-dep-viet-nam-hoc-sinh-1-1.webp"
+    },
+    {
+      "id": "10",
+      "fullName": "Vu Van J",
+      "username": "vuvanj",
+      "email": "vuvanj@gmail.com",
+      "password": "vuvanj",
+      "token": "JqNsBdXpLmQw8TyZ3XvL",
+      "role": "student",
+      "image_url": "https://tapl.edu.vn/public/upload/2024/12/anh-gai-xinh-lop-10-01.webp"
+    },
+    {
+      "id": "be9f",
+      "fullName": "Lê Gia Bảo",
+      "username": "legiabao0709",
+      "email": "legiabaoprovanai@gmail.com",
+      "password": "abcd1234",
+      "token": "pKxjPmqyOBAzoHlKflyy",
+      "role": "student"
+    },
+    {
+      "id": "53e7",
+      "fullName": "Lê Gia Bảo",
+      "username": "legiabaodan",
+      "email": "legiabaoprovanai1@gmail.com",
+      "password": "abcd1234",
+      "token": "32YqhZPNWUhAaqSGXjLM",
+      "role": "teacher"
+    }
+  ],
+  "dai_so": [
+    {
+      "id": "01",
+      "text": "Ma trận chuyển vị của ma trận AA là ma trận có được bằng cách:",
+      "options": [
+        {
+          "text": " Phần tử nằm ở hàng thứ ii cột thứ jj được đổi thành nằm ở hàng thứ jj cột thứ ii.\n",
+          "isCorrect": true
+        },
+        {
+          "text": "Đổi hàng thành cột trong ma trận AA.",
+          "isCorrect": false
+        },
+        {
+          "text": "Đổi cột thành hàng trong ma trận AA.",
+          "isCorrect": false
+        },
+        {
+          "text": "Đổi hàng và cột trong ma trận AA",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 0,
+      "chapter": "Ma trận"
+    },
+    {
+      "id": "02",
+      "text": "Ma trận chuyển vị của ma trận AA là ma trận có được bằng cách:",
+      "options": [
+        {
+          "text": " Phần tử nằm ở hàng thứ ii cột thứ jj được đổi thành nằm ở hàng thứ jj cột thứ ii.",
+          "isCorrect": true
+        },
+        {
+          "text": "Đổi hàng thành cột trong ma trận AA.",
+          "isCorrect": false
+        },
+        {
+          "text": "Đổi cột thành hàng trong ma trận AA.",
+          "isCorrect": false
+        },
+        {
+          "text": "Đổi hàng và cột trong ma trận AA",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": "0",
+      "chapter": "Khái niệm ma trận"
+    },
+    {
+      "id": "03",
+      "text": "Cho 2 ma trận AA và BB, ta nói A+BA+B có được khi:",
+      "options": [
+        {
+          "text": "Có số hàng bằng số cột và các phần tử trên đường chéo khác không.",
+          "isCorrect": false
+        },
+        {
+          "text": " Số cột của ma trận AA phải bằng số hàng của ma trận BB và ta cộng các vị trí tương ứng với nhau",
+          "isCorrect": true
+        },
+        {
+          "text": ".AA, BB có cùng kích thước và ta lấy các phần tử trên các cột của ma trận AA cộng với các phần tử trên hàng của ma trận AA",
+          "isCorrect": false
+        },
+        {
+          "text": ". AA, BB là các ma trận vuông cùng cấp.",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 1,
+      "chapter": "Khái niệm ma trận"
+    },
+    {
+      "id": "04",
+      "text": "\\[ A = \\begin{bmatrix} -2 & 0 & 1 \\\\ 3 & 4 & 2 \\end{bmatrix}, \\quad B = \\begin{bmatrix} 0 & 1 \\\\ -3 & 2 \\\\ 0 & -1 \\end{bmatrix} \\]",
+      "options": [
+        {
+          "text": "$A + B^T = \\begin{bmatrix} -2 & -3 & 1 \\\\ 4 & 6 & 1 \\end{bmatrix}$.",
+          "isCorrect": true
+        },
+        {
+          "text": " $A + B^T = \\begin{bmatrix} -2 & -3 & 1 \\\\ 4 & 6 & 5 \\end{bmatrix}$",
+          "isCorrect": false
+        },
+        {
+          "text": "$A + B^T = \\begin{bmatrix} 0 & -3 & 0 \\\\ 4 & 6 & 5 \\end{bmatrix}$",
+          "isCorrect": false
+        },
+        {
+          "text": ". Không thể thực hiện phép cộng vì hai ma trận $A$ và $B$ không cùng kích thước.",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 0,
+      "chapter": "Khái niệm ma trận"
+    },
+    {
+      "id": "05",
+      "text": "\\[ A = \\begin{bmatrix} -2 & 1 & 1 \\\\ 4 & 0 & 1 \\end{bmatrix}, \\quad B = \\begin{bmatrix} 0 & -3 \\\\ 1 & 1 \\\\ 2 & 0 \\end{bmatrix} \\]. Khi đó tích $AB$ là:",
+      "options": [
+        {
+          "text": "$AB = \\begin{bmatrix} 3 & 7 \\\\ 2 & -12 \\end{bmatrix}$.",
+          "isCorrect": false
+        },
+        {
+          "text": " $AB = \\begin{bmatrix} -3 & 7 \\\\ 2 & -12 \\end{bmatrix}$",
+          "isCorrect": true
+        },
+        {
+          "text": "$AB =\\begin{bmatrix} 3 & 7 \\\\ -2 & -12 \\end{bmatrix}$",
+          "isCorrect": false
+        },
+        {
+          "text": "$AB = \\begin{bmatrix} 3 & 7 \\\\ 2 & -1 \\end{bmatrix}$",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 1,
+      "chapter": "Khái niệm ma trận"
+    },
+    {
+      "id": "06",
+      "text": ": Cho ma trận \\( A = \\begin{bmatrix} 1 & 3 \\\\ 5 & -1 \\end{bmatrix} \\). Khi đó \\( A^{-1} \\) ",
+      "options": [
+        {
+          "text": "\\( \\begin{bmatrix} \\frac{1}{16} & \\frac{3}{16} \\\\ \\frac{5}{16} & -\\frac{1}{16} \\end{bmatrix} \\)",
+          "isCorrect": true
+        },
+        {
+          "text": " \\( \\begin{bmatrix} -\\frac{1}{16} & \\frac{3}{16} \\\\ \\frac{5}{16} & \\frac{1}{16} \\end{bmatrix} \\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\( \\begin{bmatrix} -1 & -5 \\\\ -9 & 1 \\end{bmatrix} \\)",
+          "isCorrect": false
+        },
+        {
+          "text": "Không tồn tại",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 0,
+      "chapter": "Tính toán Ma Trận"
+    },
+    {
+      "id": "07",
+      "text": "Cho ma trận \\( A = \\begin{bmatrix} 1 & 2022 \\\\ 0 & 3 \\end{bmatrix} \\). Khi đó, $\\det(2A)^{-1}$ =...? ",
+      "options": [
+        {
+          "text": "$\\det(2A)^{-1} = 3$",
+          "isCorrect": false
+        },
+        {
+          "text": " $\\det(2A)^{-1} = \\frac{1}{12}$",
+          "isCorrect": true
+        },
+        {
+          "text": "$\\det(2A)^{-1} = \\frac{1}{6}$",
+          "isCorrect": false
+        },
+        {
+          "text": "$\\det(2A)^{-1} = \\frac{1}{3}$",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 1,
+      "chapter": "Tính toán Ma Trận"
+    },
+    {
+      "id": "08",
+      "text": "Cho ma trận \\( A = \\begin{bmatrix} 1 & 2022 \\\\ 0 & 3 \\end{bmatrix} \\). Khi đó, $\\det(2A)^{-1}$ =...? ",
+      "options": [
+        {
+          "text": "$\\det(2A)^{-1} = 3$",
+          "isCorrect": false
+        },
+        {
+          "text": " $\\det(2A)^{-1} = \\frac{1}{12}$",
+          "isCorrect": true
+        },
+        {
+          "text": "$\\det(2A)^{-1} = \\frac{1}{6}$",
+          "isCorrect": false
+        },
+        {
+          "text": "$\\det(2A)^{-1} = \\frac{1}{3}$",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 1,
+      "chapter": "Tính toán Ma Trận"
+    },
+    {
+      "id": "09",
+      "text": "Cho ma trận \\( A = \\begin{bmatrix} 1 & 2 & 3 \\\\ 0 & 1 & 4 \\ 0 & 0 & 5 \\end{bmatrix} \\). Khi đó, $\\det(2A)$ =...? ",
+      "options": [
+        {
+          "text": "$\\det(2A) = 40$",
+          "isCorrect": true
+        },
+        {
+          "text": " $\\det(2A) = \\frac{1}{40}$",
+          "isCorrect": false
+        },
+        {
+          "text": "$\\det(2A) = 10$",
+          "isCorrect": false
+        },
+        {
+          "text": "$\\det(2A) = 30$",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 0,
+      "chapter": "Tính toán Ma Trận"
+    },
+    {
+      "id": "10",
+      "text": "Để cân bằng phản ứng hóa học \\( CH_4 + O_2 \\rightarrow CO_2 + H_2O \\), ta gọi \\( x_1, x_2, x_3, x_4 \\) lần lượt là hệ số của \\( CH_4, O_2, CO_2, H_2O \\). \n Hệ phương trình cân bằng nguyên tử: \\begin{cases} x_1 - x_3 = 0 & \\text{(Cân bằng C)} \\\\ 4x_1 - 2x_4 = 0 & \\text{(Cân bằng H)} \\\\ 2x_2 - 2x_3 - x_4 = 0 & \\text{(Cân bằng O)} \\end{cases}",
+      "options": [
+        {
+          "text": "$\\det(2A) = 40$",
+          "isCorrect": true
+        },
+        {
+          "text": " $\\det(2A) = \\frac{1}{40}$",
+          "isCorrect": false
+        },
+        {
+          "text": "$\\det(2A) = 10$",
+          "isCorrect": false
+        },
+        {
+          "text": "$\\det(2A) = 30$",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 0,
+      "chapter": "Hệ phương trình tuyến tính"
+    },
+    {
+      "id": "11",
+      "text": "Ma trận đầy đủ của hệ: \\[ \\begin{cases} 3x_1 + x_2 + x_3 = 5 \\\\ x_1 - 4x_3 = 3 \\end{cases} \\] ",
+      "options": [
+        {
+          "text": " \\(\\begin{bmatrix} 3 & 1 & 1 & 5 \\\\ 1 & 0 & -4 & 3 \\end{bmatrix}\\)",
+          "isCorrect": true
+        },
+        {
+          "text": " \\(\\begin{bmatrix} 3 & 1 & 1 \\\\ 1 & 0 & -4 \\end{bmatrix}\\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\(\\begin{bmatrix} 3 & 1 & 1 & 5 \\\\ 1 & 0 & 4 & 3 \\end{bmatrix}\\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\(\\begin{bmatrix} 3 & 1 & 5 & 1 \\\\ 1 & 0 & 3 & -4 \\end{bmatrix}\\)",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 0,
+      "chapter": "Hệ phương trình tuyến tính"
+    },
+    {
+      "id": "12",
+      "text": "Cho hệ phương trình tuyến tính \\[ \\begin{cases}  x_1 + 3x_2 - 2x_3 + x_4 = 0 \\\\  x_1 + x_2 - x_3 + 3x_4 = 1 \\\\  x_1 + 2x_2 - 3x_3 - 2x_4 = 2  \\end{cases} \\] Hệ đã cho tương đương với hệ: ",
+      "options": [
+        {
+          "text": "$x_1 + 3x_2 - 2x_3 + x_4 = 0$ \\[ x_2 + x_3 + 3x_4 = -2 \\]  \\[ 3x_3 + 8x_4 = -3 \\]",
+          "isCorrect": true
+        },
+        {
+          "text": "$x_1 + 3x_2 - 2x_3 + x_4 = 0$  \\[ x_2 + x_3 + 3x_4 = 2 \\]",
+          "isCorrect": false
+        },
+        {
+          "text": "$x_1 + 3x_2 - 2x_3 + x_4 = 0$  \\[ x_2 + x_3 + 3x_4 = -2 \\]",
+          "isCorrect": false
+        },
+        {
+          "text": "$x_1 + 3x_2 - 2x_3 + x_4 = 0$  \\[ x_2 + x_3 + 3x_4 = 2 \\]\\[ 3x_3 + 8x_4 = 3 \\]",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 0,
+      "chapter": "Hệ phương trình tuyến tính"
+    },
+    {
+      "id": "13",
+      "text": "Cho hệ phương trình tuyến tính \\[ \\begin{cases}  x_1 + x_2 - 4x_3 = 0 \\\\  x_1 + x_2 - 7x_3 = 1 \\\\  x_1 - 2x_2 - x_3 = 0  \\end{cases} \\] Khi đó, kết luận nào sau đây là đúng? ",
+      "options": [
+        {
+          "text": "Hệ đã cho có một nghiệm duy nhất",
+          "isCorrect": true
+        },
+        {
+          "text": "Hệ đã cho là hệ phương trình tuyến tính thuần nhất",
+          "isCorrect": false
+        },
+        {
+          "text": "Hệ đã cho vô nghiệm",
+          "isCorrect": false
+        },
+        {
+          "text": "Hệ đã cho có vô số nghiệm",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 0,
+      "chapter": "Hệ phương trình tuyến tính"
+    },
+    {
+      "id": "14",
+      "text": "Ánh xạ nào sau đây là toán tử tuyến tính trong không gian \\(\\mathbb{R}^2\\)?",
+      "options": [
+        {
+          "text": " \\( f : \\mathbb{R}^2 \\rightarrow \\mathbb{R} \\) xác định bởi \\( f(x, y) = (x + 3y, 5y) \\)",
+          "isCorrect": true
+        },
+        {
+          "text": "\\( f : \\mathbb{R} \\rightarrow \\mathbb{R}^2 \\) xác định bởi \\( f(x, y) = 3x + 4y \\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\( f : \\mathbb{R} \\rightarrow \\mathbb{R}^2 \\) xác định bởi \\( f(x) = (x, -5x) \\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\( f : \\mathbb{R}^2 \\rightarrow \\mathbb{R}^2 \\) xác định bởi \\( f(x, y) = (x + 3y, xy) \\)",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 0,
+      "chapter": "Ánh xạ"
+    },
+    {
+      "id": "15",
+      "text": "Ma trận chính tắc của ánh xạ tuyến tính \\( f : \\mathbb{R}^2 \\rightarrow \\mathbb{R}^3 \\) xác định bởi \\( f(x, y, z) = (x + 2y, 2x - 3y, -4y) \\) là:?",
+      "options": [
+        {
+          "text": " $\\begin{bmatrix} 1 & 2 \\\\ 2 & -3 \\\\ 0 & -4 \\end{bmatrix}$",
+          "isCorrect": true
+        },
+        {
+          "text": "$\\begin{bmatrix} 2 & 1 \\\\ -3 & 2 \\\\ -4 & 0 \\end{bmatrix}$",
+          "isCorrect": false
+        },
+        {
+          "text": "$\\begin{bmatrix} 1 & 2 \\\\ 2 & -3 \\\\ 0 & -4 \\end{bmatrix}$",
+          "isCorrect": false
+        },
+        {
+          "text": "$\\begin{bmatrix} 2 & -3 \\\\ 1 & 2 \\\\ 0 \\end{bmatrix}$",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 0,
+      "chapter": "Ánh xạ"
+    },
+    {
+      "id": "16",
+      "text": "Hạt nhân của ánh xạ tuyến tính \\( f : \\mathbb{R}^2 \\rightarrow \\mathbb{R}^2 \\) xác định bởi \\( f(x_1, x_2) = (3x_1 - 7x_2, -5x_2) \\) là:",
+      "options": [
+        {
+          "text": " \\(\\text{Ker}(f) = \\mathbb{R}\\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\(\\text{Ker}(f) = \\{(0, 0)\\}\\)",
+          "isCorrect": true
+        },
+        {
+          "text": "\\(\\text{Ker}(f) = \\mathbb{R}^2\\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\(\text{Ker}(f) = \\{(1, 0)\\}\\)",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 1,
+      "chapter": "Ánh xạ"
+    },
+    {
+      "id": "17",
+      "text": " Số chiều của tập hạt nhân của ánh xạ tuyến tính \\( f : \\mathbb{R}^3 \\to \\mathbb{R}^2 \\) xác định bởi \\( f(x_1, x_2, x_3) = (3x_1 + 2x_2 - x_3, -x_2 + 5x_3) \\) là:",
+      "options": [
+        {
+          "text": " 0",
+          "isCorrect": false
+        },
+        {
+          "text": "1",
+          "isCorrect": true
+        },
+        {
+          "text": "2",
+          "isCorrect": false
+        },
+        {
+          "text": "3",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 1,
+      "chapter": "Ánh xạ"
+    },
+    {
+      "id": "18",
+      "text": " Ma trận của ánh xạ tuyến tính \\( f : \\mathbb{R}^2 \\to \\mathbb{R}^2 \\) xác định bởi \\( f(x_1, x_2) = (x_1 + x_2, 3x_2) \\) đối với cơ sở \\( B = \\{u_1(1, -1), u_2(0, 3)\\} \\) là:",
+      "options": [
+        {
+          "text": " \\( A = \\begin{bmatrix} 0 & 3 \\\\ -1 & 4 \\end{bmatrix} \\)",
+          "isCorrect": true
+        },
+        {
+          "text": "\\( A = \\begin{bmatrix} 3 & 0 \\\\ -1 & 4 \\end{bmatrix} \\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\( A = \\begin{bmatrix} 3 & 0 \\\\ 4 & -1 \\end{bmatrix} \\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\( A = \\begin{bmatrix} 1 & 0 \\\\ -1 & 3 \\end{bmatrix} \\)",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 0,
+      "chapter": "Ánh xạ"
+    }
+  ],
+  "giai_tich": [
+    {
+      "id": "01",
+      "text": "Tìm giá trị nhỏ nhất của hàm số \\( f(x) = \\ln\\sqrt{x^2 + 1} - \\arctan x + x \\) trên đoạn \\([0; 1]\\).",
+      "options": [
+        {
+          "text": " 0  ",
+          "isCorrect": true
+        },
+        {
+          "text": "\\(\\frac{1}{2} \\ln 2 - \\frac{\\pi}{4} + 1\\) ",
+          "isCorrect": false
+        },
+        {
+          "text": "\\(\\frac{1}{2} \\ln 2 + \\frac{\\pi}{4} - 1\\)  ",
+          "isCorrect": false
+        },
+        {
+          "text": "\\(\\frac{1}{2} \\ln 2 + 1\\)",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 0,
+      "chapter": "Hàm số"
+    },
+    {
+      "id": "02",
+      "text": "Khi khảo sát tính đơn điệu của hai dãy số \\( x_n = \\sin \\frac{1}{\\sqrt{n}} - n \\), \\( y_n = \\left(1 - \\frac{1}{2}\\right)\\left(1 - \\frac{1}{3}\\right) \\dots \\left(1 - \\frac{1}{n}\\right) \\), khẳng định nào đúng?",
+      "options": [
+        {
+          "text": "\\(\\{x_n\\}\\) giảm; \\(\\{y_n\\}\\) tăng.",
+          "isCorrect": false
+        },
+        {
+          "text": " Cả hai dãy cùng giảm",
+          "isCorrect": true
+        },
+        {
+          "text": "Cả hai dãy cùng tăng.",
+          "isCorrect": false
+        },
+        {
+          "text": "\\(\\{x_n\\}\\) giảm; \\(\\{y_n\\}\\) không tăng, không giảm.",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 1,
+      "chapter": "Hàm số"
+    },
+    {
+      "id": "03",
+      "text": "Cho hàm số f (x) = x5 - 5x4 + 4x - 1. Số điểm uốn của đồ thị hàm số là",
+      "options": [
+        {
+          "text": "1",
+          "isCorrect": true
+        },
+        {
+          "text": " 2",
+          "isCorrect": false
+        },
+        {
+          "text": "3",
+          "isCorrect": false
+        },
+        {
+          "text": "0",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 0,
+      "chapter": "Hàm số"
+    },
+    {
+      "id": "04",
+      "text": "Khai triển Maclaurin cấp 5 của f(x) = \\( \\frac{x + 2}{x + 1}\\) là:",
+      "options": [
+        {
+          "text": ". f (x) = 2 + x - x2 + x5 + o (x5)",
+          "isCorrect": false
+        },
+        {
+          "text": ". f (x) = 2 - x + x2 - x3 + x4 - x5 + o (x5)",
+          "isCorrect": true
+        },
+        {
+          "text": ". f (x) = 1 + x + x2 - x3 + x4 - x5 + o (x5)",
+          "isCorrect": false
+        },
+        {
+          "text": "Các câu kia đều sai.",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 1,
+      "chapter": "Hàm số"
+    },
+    {
+      "id": "05",
+      "text": "Tìm tất cả các giá trị của a để hàm số f(x) = \\( \\frac{ax + 1}{x^2 + 2}\\) có 2 cực trị.",
+      "options": [
+        {
+          "text": "a ≠ 0",
+          "isCorrect": true
+        },
+        {
+          "text": "a ≠ 12",
+          "isCorrect": false
+        },
+        {
+          "text": "a ≠ ±1",
+          "isCorrect": false
+        },
+        {
+          "text": "∀a",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 0,
+      "chapter": "Hàm số"
+    },
+    {
+      "id": "06",
+      "text": "Tính giới hạn \\( I = \\lim_{x \\to 0} \\left( \\cos x + \\sin^2 x \\right)^{\\frac{1}{\\sin^2 x}} \\). ",
+      "options": [
+        {
+          "text": "\\( I = e \\)",
+          "isCorrect": false
+        },
+        {
+          "text": " \\( I = \\sqrt{e} \\)",
+          "isCorrect": true
+        },
+        {
+          "text": "\\( I = 1 \\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\( I = \\sqrt[3]{e} \\)",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 1,
+      "chapter": "Giới hạn"
+    },
+    {
+      "id": "07",
+      "text": "VCB nào sau đây là bậc 1? ",
+      "options": [
+        {
+          "text": "\\( a_1(x) = \\sin 2x - 2\\sin x \\)",
+          "isCorrect": false
+        },
+        {
+          "text": " \\( a_3(x) = e^{\\sin x} - \\cos x \\)",
+          "isCorrect": true
+        },
+        {
+          "text": "\\( a_4(x) = \\sqrt{1 + 2x} - 1 - \\sqrt{x} \\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\( a_2(x) = \\arcsin (\\sqrt{4 + x^2} - 2) \\)",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 1,
+      "chapter": "Giới hạn"
+    },
+    {
+      "id": "08",
+      "text": "VCB nào sau đây có bậc bằng với bậc của \\(\\beta(x) = 3^{\\sqrt{x}} - 1\\)? ",
+      "options": [
+        {
+          "text": "\\(a(x) = 1 - \\cos^3 x\\)",
+          "isCorrect": false
+        },
+        {
+          "text": " \\(x(x) = \\arctan \\left( \\sqrt[3]{8 + x^4} - 2 \\right)\\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\(y(x) = \\arcsin \\left( \\sqrt{4 + x^2} - 2 \\right)\\)",
+          "isCorrect": true
+        },
+        {
+          "text": "Cả A, B, C đều sai.",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 2,
+      "chapter": "Giới hạn"
+    },
+    {
+      "id": "09",
+      "text": "Tìm tất cả các giá trị của \\( a \\) để \\[\\lim_{x \\to 0} \\left( \\frac{\\ln \\left( ax^2 + x + 1 \\right) - x}{x^2} \\right) = 1\\] ",
+      "options": [
+        {
+          "text": "\\( a = \\dfrac{3}{2} \\)",
+          "isCorrect": true
+        },
+        {
+          "text": " \\( a \\neq 1 \\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\( a = 1 \\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\( \\dfrac{5}{2} \\)",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 0,
+      "chapter": "Giới hạn"
+    },
+    {
+      "id": "10",
+      "text": "Tìm miền xác định của \\( f'(x) \\), với \\( f(x) = |(x+1)x| - 3x^2 + 1 \\).",
+      "options": [
+        {
+          "text": "\\( \\mathbb{R} \\setminus \\{0; 1; -1\\} \\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\( \\mathbb{R} \\setminus \\{0; 1\\} \\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\( \\mathbb{R} \\setminus \\{0; -1\\} \\)",
+          "isCorrect": true
+        },
+        {
+          "text": "\\( \\mathbb{R} \\setminus \\{-1\\} \\)",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 2,
+      "chapter": "Giới hạn"
+    },
+    {
+      "id": "11",
+      "text": " Đạo hàm cấp 3 của  \\[f(x) = (x^2 + 1)\\cos 2x \\quad \\text{tại} \\quad \\pi / 2 \\quad \\text{là}\\]",
+      "options": [
+        {
+          "text": "\\( -3\\pi \\)  ",
+          "isCorrect": false
+        },
+        {
+          "text": "\\( 12\\pi \\)  ",
+          "isCorrect": true
+        },
+        {
+          "text": "\\( -12\\pi \\) ",
+          "isCorrect": false
+        },
+        {
+          "text": "Các câu khác sai.",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 1,
+      "chapter": "Đạo hàm"
+    },
+    {
+      "id": "12",
+      "text": "\\[x(t) = t^3 + t, \\, y(t) = t^3 + 3t^2 + t, \\, \\text{đạo}\\]  hàm cấp 2 của  \\( y \\) theo \\( x \\) tại \\( x = 0 \\)  ",
+      "options": [
+        {
+          "text": "2",
+          "isCorrect": false
+        },
+        {
+          "text": "\\(-6\\)",
+          "isCorrect": false
+        },
+        {
+          "text": "6  ",
+          "isCorrect": true
+        },
+        {
+          "text": "\\(-2\\)",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 2,
+      "chapter": "Đạo hàm"
+    },
+    {
+      "id": "13",
+      "text": "Cho \\( x(t) = t^3 + 1, y(t) = te^t \\), tính \\( y'(x) \\)   tại \\( x = 0 \\) ?",
+      "options": [
+        {
+          "text": " \\(\\frac{1}{3}\\)  ",
+          "isCorrect": false
+        },
+        {
+          "text": "1  ",
+          "isCorrect": false
+        },
+        {
+          "text": "\\(-\\frac{1}{3}\\) ",
+          "isCorrect": false
+        },
+        {
+          "text": "0  ",
+          "isCorrect": true
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 3,
+      "chapter": "Đạo hàm"
+    },
+    {
+      "id": "14",
+      "text": "\\( f(x) = \\sqrt{1 - \\cos x} \\), tính \\( f' \\left( \\frac{\\pi}{6} \\right) \\)",
+      "options": [
+        {
+          "text": "\\( \\frac{1}{\\sqrt{3} - 1} \\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\( 1 \\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\( \\frac{1}{2(\\sqrt{3} - 1)} \\)",
+          "isCorrect": true
+        },
+        {
+          "text": "Các câu khác sai",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 2,
+      "chapter": "Đạo hàm"
+    },
+    {
+      "id": "15",
+      "text": " Tính đạo hàm cấp 4 của \\( f(x) = \\frac{\\sin x}{x} \\) tại  \\( x = 0 \\) là ",
+      "options": [
+        {
+          "text": " Không tồn tại.",
+          "isCorrect": true
+        },
+        {
+          "text": " \\(\\frac{1}{5}\\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\(\\frac{1}{120}\\) ",
+          "isCorrect": false
+        },
+        {
+          "text": "Các câu khác sai ",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 0,
+      "chapter": "Đạo hàm"
+    },
+    {
+      "id": "16",
+      "text": "  Khai triển Taylor đến cấp 2 của  \\[f(x) = 4x^3 + 3x^2 - 2x + 1 \\text{ với } x_0 = 1 \\text{ là}\\]",
+      "options": [
+        {
+          "text": " \\[6 + 16(x-1) + 15(x-1)^2 + o((x-1)^2)\\]",
+          "isCorrect": true
+        },
+        {
+          "text": "\\[1 - 2x + 3x^2 + o(x^2)\\]",
+          "isCorrect": false
+        },
+        {
+          "text": "\\[6 + 16(x-1) + 15(x-1)^2 + o(x^2)\\]",
+          "isCorrect": false
+        },
+        {
+          "text": "\\[1 - 2x + 3x^2 + o((x-1)^2)\\]",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 0,
+      "chapter": "Khai triển Maclaurin"
+    },
+    {
+      "id": "17",
+      "text": " Khai triển Maclaurin của  \\[f(x) = \\sqrt{1 + \\sin x -} \\cos x\\, \\text{đến } x^3\\]",
+      "options": [
+        {
+          "text": " \\[\\frac{1}{2}x + \\frac{3}{8}x^2 - \\frac{1}{48}x^3 + o(x^3)\\]",
+          "isCorrect": true
+        },
+        {
+          "text": "\\[\\frac{1}{2}x + \\frac{1}{8}x^2 - \\frac{1}{48}x^3 + o(x^3)\\]",
+          "isCorrect": false
+        },
+        {
+          "text": "\\[\\frac{1}{2}x + \\frac{3}{8}x^2 + \\frac{1}{16}x^3 + o(x^3)\\]",
+          "isCorrect": false
+        },
+        {
+          "text": "\\[\\frac{1}{2}x + \\frac{3}{8}x^2 + \\frac{1}{16}x^3 + o(x^3)\\]",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 0,
+      "chapter": "Khai triển Maclaurin"
+    },
+    {
+      "id": "18",
+      "text": " Khai triển Maclaurin của  \\[ f(x) = (x + 1)\\ln(1 + x^2 + 2x) \\, \\text{đến } x^3 \\text{ là} \\]",
+      "options": [
+        {
+          "text": " \\( 2x + x^2 - 3x^3 + o(x^3) \\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\( 2x + x^2 - \\frac{x^3}{3} + o(x^3) \\)",
+          "isCorrect": true
+        },
+        {
+          "text": "\\( 2x + x^2 - \\frac{5x^3}{3} + o(x^3) \\)",
+          "isCorrect": false
+        },
+        {
+          "text": "\\( 2x + x^2 - 3x^3 + o(x^2) \\)",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 1,
+      "chapter": "Khai triển Maclaurin"
+    },
+    {
+      "id": "19",
+      "text": " Viết khai triển Maclaurin của hàm số $y=\\sin(\tan x)$ đến số hạng $x^3$",
+      "options": [
+        {
+          "text": " $\\sin(\\tan x) = x - \\frac{x^3}{6} + o(x^3)$ ",
+          "isCorrect": false
+        },
+        {
+          "text": "$\\sin(\\tan x) = x + \\frac{x^3}{6} + o(x^3)$",
+          "isCorrect": true
+        },
+        {
+          "text": "$\\sin(\\tan x) = x - \\frac{x^3}{2} + o(x^3)$",
+          "isCorrect": false
+        },
+        {
+          "text": "$\\sin(\\tan x) = x + \\frac{x^3}{2} + o(x^3)$",
+          "isCorrect": false
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 1,
+      "chapter": "Khai triển Maclaurin"
+    },
+    {
+      "id": "20",
+      "text": "Khai triển Maclaurin của hàm số $y=\\cos(\\sin x)$ đến số hạng $x^4$",
+      "options": [
+        {
+          "text": " $\\cos(\\sin x) = 1 - \\frac{x^2}{2!} + \\frac{1}{4!}x^4 + o(x^4)$",
+          "isCorrect": false
+        },
+        {
+          "text": "$\\cos(\\sin x) = 1 - \\frac{x^2}{2!} + \\frac{5}{4!}x^4 + o(x^4)$",
+          "isCorrect": false
+        },
+        {
+          "text": "$\\cos(\\sin x) = 1 - \\frac{x^2}{2!} - \\frac{1}{4!}x^4 + o(x^4)$",
+          "isCorrect": false
+        },
+        {
+          "text": "$\\cos(\\sin x) = 1 - \\frac{x^2}{2!} - \\frac{5}{4!}x^4 + o(x^4)$",
+          "isCorrect": true
+        }
+      ],
+      "userAnswer": null,
+      "answerCorrect": 3,
+      "chapter": "Khai triển Maclaurin"
+    }
+  ],
+  "ChapterDaiSo": [
+    {
+      "name": "Khái niệm ma trận",
+      "id": "1"
+    },
+    {
+      "name": "Tính toán Ma Trận",
+      "id": "2"
+    },
+    {
+      "name": "Hệ phương trình tuyến tính",
+      "id": "3"
+    },
+    {
+      "name": "Ánh xạ",
+      "id": "4"
+    }
+  ],
+  "ChapterGiaiTich": [
+    {
+      "name": "Hàm số",
+      "id": "1"
+    },
+    {
+      "name": "Giới hạn",
+      "id": "2"
+    },
+    {
+      "name": "Đạo hàm",
+      "id": "3"
+    },
+    {
+      "name": "Khai triển Maclaurin",
+      "id": "4"
+    }
+  ]
+}
